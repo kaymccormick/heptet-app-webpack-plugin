@@ -1,0 +1,13 @@
+{
+  "name": "heptet-app-webpack-plugin",
+  "version": "0.44.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "html-webpack-plugin": "^3.2.0",
+    "lodash": "^4.17.11",
+    "webpack": "^4.20.2"
+  },
+  "devDependencies": {}
+}
